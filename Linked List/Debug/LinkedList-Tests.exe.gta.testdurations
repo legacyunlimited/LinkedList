@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Executable>E:\Freelancer Tasks\LinkedList\Linked List\Debug\LinkedList-Tests.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="addItemTest.AddItem" Duration="2" />
+    <TestDuration Test="TestCaseName.TestName" Duration="1" />
+    <TestDuration Test="AddAtFrontTest.AddAtFront" Duration="1" />
+    <TestDuration Test="AddAtEndTest.AddAtEnd" Duration="1" />
+    <TestDuration Test="DeleteAtFrontTest.DeleteAtFront" Duration="1" />
+    <TestDuration Test="DeleteAtEndTest.DeleteAtEnd" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>
